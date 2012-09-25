@@ -1,0 +1,8 @@
+#Review of http://www.msu.edu
+
+Homepage is engaging and interactive. Flash interactions on the homepage look great, however will not display on mobile devices properly. The color scheme of the site really gives the website a "MSU feel" to the webpage. The navigation bar at the top of the screen gets easily gets users where they want to go and pop out with additional subcategories to make browsing faster and more efficient. 
+
+In addition the scrolling infomation on the homepage is updated regularly and keeps users coming back for additional updates and information about MSU. There is also an events highlights right on the main page to make keeping current with MSU events a breeze. There is an easy to use search bar at the top of the page that makes finding specific information on or about MSU a breeze. 
+
+Many areas of the website go into slight detail about their topics, and for more information redirect you to other urls associated with MSU. One example of this would be the MSU Athletics page. All in all it is a appealing looking website, but could potentially be made better by utilizing javascript on the homepage instead of flash so mobile devices could support the animations.
+
