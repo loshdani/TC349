@@ -1,0 +1,7 @@
+#Chartbeat Review
+
+Upon arriving the Chartbeat.com the first thing you notice is just how professionally and stylish the homepage. Right from the start you realize two things: that Chartbeat takes its service seriously, and they want to cater to people who take their work seriously as well. The slogan "Real-time data for front-line doers" is the first header of the website and likely the first thing you will read. As users scroll down the front page several items stylishly move and react to the reader's progression. The website is playfully geeky, yet maintains professionalism. For example at the bottom of the website it tells you the exact number of pixels that you scrolled to get to the bottom of the webpage and informs you that you've "certainly earned a 30-day trial." 
+
+The demo page of the website gives the user an engaging experience that accurately simulates using their service. Various graphs statistics and data is simulated to being updated in real time as it would if using their full product. The pages can be changed from "Overview" to "Content", "Social", "Traffic Sources", and "Geo". All of these pages are very well laid out and updated in realtime. The features that their product provides seem to be almost endless, yet never overwhelming.
+
+Needless to say this website is fantastic. If I were looking for a means to get data on my website, Chartbeat would likely have sold me within the first 10 minutes of browsing their website.
