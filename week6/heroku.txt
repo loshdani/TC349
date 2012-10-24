@@ -1,0 +1,25 @@
+#Heroku.com Critique
+
+Heroku is a company that provides a cloud applicaton platform for web developers to deploy and scale  
+their applications. Heroku supports Ruby, Node.js, Clojure, Java, Python, and Scala; it also interfaces  
+with git to deploy instantly. The main page is broken down into four categories: Forget Servers, Run  
+Anything, See Everything, and Trust & Manage. Within each of these tabs there is a brief explanation  
+and a link to a more in depth discussion of each topic. Below this there is a button to click and see  
+how their product works as well as a button to sign up for their service. In the footer there are  
+several links that are divided into categories for quick navigation from any place on the website.
+
+On the top navigation there are several items that are left justified including: How it Works, Pricing,  
+Add-ons, Dev Center, Help, Contact, and Login. The "How it Works" section really does a fantastic job of  
+accurately explaining how heroku manages applications that are built on top of their platform. The pages  
+that explain use a two column design with information on the left and a picture that helps explain  
+things on the right. This set up is a very effective means to convey their process.
+
+The Pricing page is also very intuitive and lets users build their platform based on the number of  
+"dynos" working on their website. If the website gets increased traffic just simply add more Worker  
+Dynos to process the increased traffic, and so on. It is a highly customizable system with a very  
+intuitive interface to tweak the website just as the owner sees fit.
+
+Overall the website has a very nice look to it with simple, but well organized pages. Many of the pages  
+are laid out with intuitive tools to help understand exactly where your money is going and how it will  
+affect your website as a whole. Heroku is an amazing looking website that I have very few complaints  
+about.
