@@ -1,0 +1,74 @@
+
+html {
+	background-image: url(../images/snow.jpg);
+	background-repeat: repeat;
+}
+
+header {
+	margin: 0 auto;
+	width: 1000px;
+	padding-top: 5px; 
+	background-color: #A5B7FF;
+	border-bottom: solid 10px #000;
+}
+
+.wrap {
+	margin: 0 auto;
+	width: 900px;
+	height: auto;
+	overflow: auto;
+	padding: 5px 50px 50px 50px;
+	background: #1E38A6;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+section {
+	width: 567px;
+	margin-right: 25px;
+	float: left;
+	background: #5B7CFF;
+	border: solid 2px #FFF;
+	}
+
+aside {
+	width: 300px;
+	float: left;
+	background: #5B7CFF;
+	border: solid 2px #FFF;
+}
+
+footer {
+	clear: both;
+	border-top: 1px solid #e3e3e3;
+}
+
+
+h1 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size:24px;
+}
+
+#nav {
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+#nav li {
+  display: inline-block;
+}
+#nav a {
+	color: #FFFFFF;
+	text-decoration: none;	
+	padding-right: 20px;
+	padding-left: 20px;
+	background-color: #5B7CFF;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+#nav a:hover {
+	background-color: #0439D9;
+	color: #FFF;
+}
+
