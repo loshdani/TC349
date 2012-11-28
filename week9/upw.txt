@@ -1,0 +1,14 @@
+#United Pixel Works 
+
+Upon arriving the first great thing I noticed about the website is that when I resized my browser the  
+objects not only shifted to fit the width of my web browser, but also had a very smooth animation sliding into place to fit according to the size of the browser. Then upon scrolling down I noticed  
+they have shirts on sale that say "Our website shrinks, does yours?" The website has a very nice  
+interface for ordering mainly shirts, but other items such as patches themed around pixelized art. 
+
+I decided to give the website a test run on my Nexus 7 Tablet and just as the website had said it fit  
+very nicely on the much smaller sized tablet. After clicking on a product you get a mostly standard  
+purchasing interface, but the option to see approximately how many shirts are available in each size is  
+a really nice touch. There's also a convenient email sign up feature so UPW can contact you when your  
+size is restocked. United Pixel Works is a very tech savvy website that scales to just about any size  
+you will need with finesse and has a great overall design and interface for purchasing their products.  
+And their shirts aren't half bad either.
