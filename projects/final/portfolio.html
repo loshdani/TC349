@@ -3,8 +3,21 @@
 <head>
 	<meta http-equiv="Content-type" content="text/html; charset=utf-8">
 	<title>Dan Losh, Connoisseur of the Internet</title>
-    <link rel="stylesheet" href="css/screen.css" type="text/css" media="screen">  
-    <script type="text/javascript" src="js/app.js" charset="utf-8">
+    <link rel="stylesheet" href="css/screen.css" type="text/css" media="screen"> 
+    <!-- include jQuery Library From Google -->
+	<script type="text/javascript" src="http://jqueryjs.googlecode.com/files/jquery-1.3.2.js"></script>
+    <!-- include jQuery UI  From Google -->
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1/jquery-ui.min.js"></script> 
+    
+    <script type="text/javascript">
+ 	 $(document).ready(function(){
+    	$('.button').hover(function() {
+     	 $(this).stop().animate({opacity: "0.8"}, 'slow');
+    	},
+    	function() {
+     	 $(this).stop().animate({opacity: "1"}, 'slow');
+    	});
+  	});
 	</script>
 </head>
 <body>
@@ -16,10 +29,34 @@
     </ul>
   </header>
   <div class="wrap">
-    <h2>Portfolio</h2>
-    <section>
-    	<p>My skillset is both technical and creative with experience in Adobe Creative Suite as well as several programming languages such as: SQL, HTML, CSS3, Javascript, C++, C#, and Python. While working at Valassis I was one of three awards given to a group of twenty interns titled the Risk Taker Award. In addition, I am an active member of the MSU Anime Club as well as an officer for Lansing's first annual anime convention: Shutocon.</p>
-    </section>
+    <h2><spanH>Portfolio</spanH></h2>
+    		<fullarticle>
+            <p>My skillset is both technical and creative with experience in Adobe Creative Suite as well as several programming languages such as: SQL, HTML, CSS3, Javascript, C++, C#, and Python. While working at Valassis I was one of three awards given to a group of twenty interns titled the Risk Taker Award. In addition, I am an active member of the MSU Anime Club as well as an officer for Lansing's first annual anime convention: Shutocon.</p>
+            </fullarticle>
+    	<article>
+        	<h2><span>Solar Divinities</span></h2>
+        	<img class="button" src="img/SolarDivinities.jpg" alt="SolarDivinities" />		
+        </article>
+        <article>
+        	<h2><span>Valassis Internship</span></h2>
+        	<img class="button" src="img/redplum.gif" alt="RedplumWebBanner" />
+        </article>        
+        <article>
+        	<h2><span>Python Programming</span></h2>
+        	<img class="button" src="img/Python.gif" alt="PythonProgramming" />
+        </article>
+        <article>
+        	<h2><span>Adventure Battle</span></h2>
+        	<img class="button" src="img/AdventureBattle.gif" alt="AdventureBattle" />
+        </article>
+        <article>
+			<h2><span>Maya Modeling</span></h2>
+        	<img class="button" src="img/Maya.gif" alt="MayaModeling" />
+        </article>
+        <article>
+            <h2><span>Transactional SQL</span></h2>
+        	<img class="button" src="img/TSQL.gif" alt="TSQL" />
+        </article>        
   </div>	
 </body>
 </html> 

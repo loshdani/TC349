@@ -1,6 +1,6 @@
 
 html {
-	background-image: url(../images/snow.jpg);
+	background-image: url(../img/snow.jpg);
 	background-repeat: repeat;
 }
 
@@ -22,9 +22,27 @@ header {
 	font-family: Arial, Helvetica, sans-serif;
 }
 
+article {
+	width: 256px;
+	padding: 10px;
+	margin: 10px;
+	float: left;
+	background: #5B7CFF;
+	border: solid 2px #FFF;
+}
+
+fullarticle {
+	width: 896px;
+	margin: 10px;
+	float: left;
+	background: #5B7CFF;
+	border: solid 2px #FFF;
+}
+
 section {
 	width: 567px;
 	margin-right: 25px;
+	margin-bottom: 25px;
 	float: left;
 	background: #5B7CFF;
 	border: solid 2px #FFF;
@@ -48,9 +66,27 @@ h1 {
 	font-size:24px;
 }
 
+
+h2 span { 
+   color: white; 
+   font: bold 24px/45px Helvetica, Sans-Serif; 
+   letter-spacing: -1px;  
+   background: rgba(0, 0, 0, 0.7);
+   position: absolute;
+   padding-left: 10px;
+   padding-right: 10px;
+}
+
+h2 spanH { 
+   color: white; 
+   font: bold 28px/45px Helvetica, Sans-Serif;   
+   background: rgba(0, 0, 0, 0.7);
+   padding: 10px;
+}
+
 #nav {
 	text-align: center;
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: "MS Serif", "New York", serif
 	font-weight: bold;
 	font-size: 20px;
 }
