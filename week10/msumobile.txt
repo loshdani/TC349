@@ -1,0 +1,7 @@
+#MSU Mobile
+
+MSU Mobile is a very simple icon based website. I browsed the website on both my android tablet and android phone using Google Chrome. The website desplayed better on the phone because there was much less white space when compared to the tablet. The layout is very simple with the title simply saying "MSU Mobile". There is a search bar directly below that that can be used to search the MSU Mobile website. The search engine seemed to work well enough for a mobile website. Below the search bar there are several icons that quickly navigate you around the website such as "People", "News", "Events", etc. All of the icons utilize a very standard, but easy to use form of navigation. After selecting an icon the interface looks very similar to an iPhone's app interface. 
+
+A nice feature that they included on the website was to allow the ability to customize what appears on the main mobile page. For example if you don't want to read about "Libraries" or "Athletics" you can choose to toggle the visibility or move them down in the list of items.
+
+All in all, the MSU Mobile website is very simple, and could size better for larger mobile devices, but provides an easy to use interface to get information on the go about MSU.
